@@ -1,0 +1,21 @@
+customer_name,age,gender,city,signup_date,product_name,category,price,sale_year,quantity,payment_mode,payment_status,total_sale
+Amit,25,0,Pune,02-08-2019,Laptop,Electronics,55000,2019,1,Credit Card,Success,55000
+Ankit,29,0,Jaipur,03-12-2023,Monitor,Electronics,15000,2023,1,Debit Card,Success,15000
+Arjun,40,0,Chennai,05-08-2019,Mouse,Electronics,800,2019,4,Cash,Success,3200
+Divya,29,1,Nagpur,09-08-2025,Earbuds,Electronics,4000,2025,2,Credit Card,Success,8000
+Isha,34,1,Indore,02-05-2020,Hard Disk,Electronics,5200,2020,1,Net Banking,Failed,5200
+Karan,27,0,Pune,02-08-2021,Table,Furniture,12000,2021,2,Credit Card,Failed,24000
+Kavya,26,1,Chennai,10-01-2021,Backpack,Accessories,2500,2021,2,UPI,Failed,5000
+Meena,45,1,Delhi,06-07-2019,Printer,Electronics,18000,2019,1,Credit Card,Success,18000
+Mohan,32,0,Surat,09-09-2021,SSD,Electronics,6500,2021,1,Credit Card,Success,6500
+Neha,30,1,Pune,27-08-2020,Chair,Furniture,7000,2020,1,Net Banking,Success,7000
+Nisha,31,1,Pune,02-07-2022,Router,Electronics,3200,2022,1,Net Banking,Success,3200
+Pooja,33,1,Mumbai,10-01-2021,Pen Drive,Accessories,900,2021,5,UPI,Success,4500
+Prakash,47,0,Bhopal,08-10-2019,Calculator,Stationery,600,2019,6,Cash,Success,3600
+Rahul,35,1,Delhi,24-02-2021,Headphones,Electronics,3000,2021,3,Debit Card,Failed,9000
+Riya,28,1,Mumbai,06-12-2020,Mobile,Electronics,25000,2020,2,UPI,Success,50000
+Rohit,38,0,Bangalore,09-03-2020,Notebook,Stationery,200,2020,10,Cash,Success,2000
+Sneha,22,1,Pune,25-09-2022,Keyboard,Electronics,1500,2022,1,Credit Card,Success,1500
+Suresh,32,0,Hyderabad,12-10-2019,Power Bank,Electronics,2200,2019,3,Credit Card,Success,6600
+Tina,24,1,Ahmedabad,02-08-2024,Office Lamp,Furniture,1800,2024,4,UPI,Success,7200
+Vikram,36,0,Mumbai,23-08-2023,Webcam,Electronics,4500,2023,2,Debit Card,Success,9000

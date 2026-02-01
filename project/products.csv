@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,55000
+102,Mobile,Electronics,25000
+103,Headphones,Electronics,3000
+104,Keyboard,Electronics,1500
+105,Mouse,Electronics,800
+106,Chair,Furniture,7000
+107,Table,Furniture,12000
+108,Pen Drive,Accessories,900
+109,Monitor,Electronics,15000
+110,Printer,Electronics,18000
+111,Notebook,Stationery,200
+112,Backpack,Accessories,2500
+113,Power Bank,Electronics,2200
+114,Router,Electronics,3200
+115,Webcam,Electronics,4500
+116,Office Lamp,Furniture,1800
+117,SSD,Electronics,6500
+118,Hard Disk,Electronics,5200
+119,Calculator,Stationery,600
+120,Earbuds,Electronics,4000
